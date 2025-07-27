@@ -4,7 +4,7 @@
 
 ## 設計架構
 
-```mermind
+```mermaid
 flowchart TD
     A[接收請求] --> B{檢查快取}
     
