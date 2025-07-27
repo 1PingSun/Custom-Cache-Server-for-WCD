@@ -14,8 +14,4 @@ flowchart TD
     D --> E[接收後端回應]
     E --> F[儲存到快取]
     F --> G[回傳內容]
-    
-    style A fill:#e1f5fe
-    style C fill:#c8e6c9
-    style G fill:#c8e6c9
 ```
